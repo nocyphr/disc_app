@@ -1,0 +1,464 @@
+{
+    "email": null, 
+    "firstName": null, 
+    "lastName": null,
+    "age": null, 
+    "questionaire": [
+        {
+            "When faced with a challenge, I:": {
+                "Immediately take charge and make decisions.": "r", 
+                "Discuss it with others to gather opinions.": "y", 
+                "Consider the long-term implications and proceed cautiously.": "b", 
+                "List out the details and plan systematically.": "g"
+            }, 
+            "userAnswer": null
+        },
+        {
+            "My preferred way of working is:": {
+                "Leading the team.": "r",
+                "Collaborating with others.": "y",
+                "Working steadily with a consistent routine.": "b",
+                "Ensuring everything is organized and in order.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "In a team, I see myself as:": {
+                "The strategist.": "r",
+                "The motivator.": "y",
+                "The supporter.": "b",
+                "The organizer.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I prefer projects that:": {
+                "Challenge me to think big.": "r",
+                "Allow me to work with others.": "y",
+                "I can work on over a long duration.": "b",
+                "Are structured and detailed.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My communication style is:": {
+                "Direct and to the point.": "r",
+                "Friendly and expressive.": "y",
+                "Thoughtful and empathetic.": "b",
+                "Precise and factual.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I am most proud of:": {
+                "My achievements.": "r",
+                "The relationships I've built.": "y",
+                "Being dependable.": "b",
+                "My meticulous work.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I value:": {
+                "Results.": "r",
+                "Team spirit.": "y",
+                "Stability.": "b",
+                "Accuracy.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I handle conflict by:": {
+                "Taking a dominant stance.": "r",
+                "Mediating and facilitating conversations.": "y",
+                "Avoiding or smoothing things over.": "b",
+                "Analyzing the details of the situation.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I'm motivated by:": {
+                "Accomplishments.": "r",
+                "Interactions with others.": "y",
+                "Familiarity and routine.": "b",
+                "Perfecting a task.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "During a meeting, I:": {
+                "Drive the agenda.": "r",
+                "Engage and interact with others.": "y",
+                "Listen and reflect on discussions.": "b",
+                "Take detailed notes.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "When starting a new project, I:": {
+                "Define clear goals and objectives.": "r",
+                "Get everyone's input and build enthusiasm.": "y",
+                "Make sure I understand the expectations and timeframe.": "b",
+                "Break down the tasks and set up processes.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I feel stressed when:": {
+                "I'm not in control of a situation.": "r",
+                "There's a lack of social interaction.": "y",
+                "My routine is disrupted.": "b",
+                "Things are disorganized.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I enjoy environments that:": {
+                "Encourage competition.": "r",
+                "Promote collaboration.": "y",
+                "Are calm and steady.": "b",
+                "Are structured.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "When making decisions, I rely on:": {
+                "My instincts and confidence.": "r",
+                "Feedback from others.": "y",
+                "My feelings and values.": "b",
+                "Facts and data.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My approach to deadlines is:": {
+                "Meeting them no matter what.": "r",
+                "Ensuring everyone feels good about the progress.": "y",
+                "Taking things one step at a time.": "b",
+                "Planning meticulously to avoid last-minute rushes.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I view feedback as:": {
+                "An opportunity for growth.": "r",
+                "A chance for interaction.": "y",
+                "Personal reflection.": "b",
+                "Information to refine my approach.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My workspace is:": {
+                "Functional for maximum efficiency.": "r",
+                "Open and inviting for others to drop by.": "y",
+                "Comfortable and personal.": "b",
+                "Organized and tidy.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "In a disagreement, I:": {
+                "Stand my ground firmly.": "r",
+                "Try to see all viewpoints.": "y",
+                "Seek harmony and understanding.": "b",
+                "Rely on facts to make my point.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I learn best by:": {
+                "Taking on challenges.": "r",
+                "Discussing with others.": "y",
+                "Reflecting on experiences.": "b",
+                "Following structured guidelines.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I express appreciation through:": {
+                "Recognizing achievements.": "r",
+                "Personal interactions and words of affirmation.": "y",
+                "Loyalty and support.": "b",
+                "Feedback on specifics.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "When confronted with change, I:": {
+                "Quickly adapt and seek to control the situation.": "r",
+                "Engage others to understand and embrace the change.": "y",
+                "Reflect on how the change impacts me and others.": "b",
+                "Analyze the details and implications of the change.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I find joy in:": {
+                "Overcoming challenges.": "r",
+                "Social events and group activities.": "y",
+                "Quiet moments and consistency.": "b",
+                "Completing tasks with precision.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My leadership style is:": {
+                "Directive and assertive.": "r",
+                "Charismatic and inspirational.": "y",
+                "Supportive and patient.": "b",
+                "Systematic and analytical.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I build trust by:": {
+                "Demonstrating competence.": "r",
+                "Building personal relationships.": "y",
+                "Being reliable and consistent.": "b",
+                "Being transparent and factual.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I prefer tasks that:": {
+                "Pose challenges and risks.": "r",
+                "Require interpersonal skills.": "y",
+                "Are routine and predictable.": "b",
+                "Demand attention to detail.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "In a group setting, I:": {
+                "Take the lead and set the direction.": "r",
+                "Encourage communication and camaraderie.": "y",
+                "Ensure everyone feels included.": "b",
+                "Focus on the task and structure.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I handle criticism by:": {
+                "Using it to improve and excel.": "r",
+                "Discussing it openly to understand better.": "y",
+                "Reflecting on it privately.": "b",
+                "Evaluating its validity against facts.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My goal setting involves:": {
+                "Setting ambitious targets.": "r",
+                "Engaging others in the goal-setting process.": "y",
+                "Ensuring they align with my personal values.": "b",
+                "Breaking them down into measurable steps.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I contribute to a team by:": {
+                "Providing direction and purpose.": "r",
+                "Boosting morale and facilitating communication.": "y",
+                "Being a steady and dependable member.": "b",
+                "Ensuring tasks are well-organized.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I am drawn to:": {
+                "Opportunities to excel and compete.": "r",
+                "Events where I can socialize and network.": "y",
+                "Stable environments with a sense of belonging.": "b",
+                "Tasks requiring analysis and planning.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "In stressful situations, I:": {
+                "Take charge and find solutions.": "r",
+                "Communicate and collaborate with others.": "y",
+                "Seek comfort and familiar environments.": "b",
+                "Analyze the root cause and details.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I value feedback that:": {
+                "Helps me achieve better results.": "r",
+                "Is delivered in a personal and considerate manner.": "y",
+                "Is genuine and sincere.": "b",
+                "Is precise and actionable.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My aspirations are driven by:": {
+                "The desire to win and be the best.": "r",
+                "Building lasting relationships.": "y",
+                "Personal growth and contentment.": "b",
+                "Mastery and expertise in my field.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "In a project, I:": {
+                "Focus on achieving the end goal.": "r",
+                "Ensure everyone collaborates and communicates.": "y",
+                "Take it one step at a time.": "b",
+                "Plan and execute with precision.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "When given a task, I:": {
+                "Look for efficient ways to complete it.": "r",
+                "Share and discuss it with colleagues.": "y",
+                "Follow established procedures.": "b",
+                "Organize and plan before starting.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I get energized by:": {
+                "Achieving milestones.": "r",
+                "Interacting with others.": "y",
+                "Maintaining harmony.": "b",
+                "Working on intricate details.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "When solving problems, I:": {
+                "Take a proactive approach.": "r",
+                "Discuss various perspectives.": "y",
+                "Consider the emotional aspects.": "b",
+                "Rely on data and facts.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My decision-making is influenced by:": {
+                "The potential for success.": "r",
+                "Input from others.": "y",
+                "How it impacts people.": "b",
+                "Logical analysis.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "When collaborating, I:": {
+                "Set clear expectations.": "r",
+                "Foster a friendly environment.": "y",
+                "Ensure everyone's well-being.": "b",
+                "Keep track of progress and details.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I am most satisfied when:": {
+                "I achieve a challenging target.": "r",
+                "I'm surrounded by a happy team.": "y",
+                "I've maintained a harmonious environment.": "b",
+                "Everything is executed flawlessly.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I communicate by:": {
+                "Being straightforward and clear.": "r",
+                "Being open and expressive.": "y",
+                "Listening actively and understanding.": "b",
+                "Providing thorough explanations.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "In a debate, I:": {
+                "Stand firm on my beliefs.": "r",
+                "Engage others and understand their viewpoints.": "y",
+                "Seek a middle ground.": "b",
+                "Use facts to support my stance.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I prioritize:": {
+                "Results and achievements.": "r",
+                "Relationships and interactions.": "y",
+                "Consistency and comfort.": "b",
+                "Accuracy and precision.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I approach learning by:": {
+                "Seeking challenges.": "r",
+                "Engaging in group discussions.": "y",
+                "Reflecting on the content.": "b",
+                "Organizing and structuring my study.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My approach to innovation is:": {
+                "Pushing boundaries.": "r",
+                "Brainstorming with others.": "y",
+                "Gradually incorporating changes.": "b",
+                "Thoroughly researching before adopting.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My definition of success is:": {
+                "Achieving set targets.": "r",
+                "Building strong relationships.": "y",
+                "Personal contentment and balance.": "b",
+                "Mastery and thoroughness.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I build relationships through:": {
+                "Shared achievements.": "r",
+                "Personal interactions.": "y",
+                "Mutual trust and understanding.": "b",
+                "Shared tasks and projects.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "My preferred feedback method is:": {
+                "Direct and actionable.": "r",
+                "Personal and constructive.": "y",
+                "Empathetic and kind.": "b",
+                "Detailed and specific.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I am motivated by:": {
+                "Challenges and competition.": "r",
+                "Positive interactions.": "y",
+                "Stability and security.": "b",
+                "Perfecting my skills.": "g"
+            },
+            "userAnswer": null
+        },
+        {
+            "I view obstacles as:": {
+                "Hurdles to overcome.": "r",
+                "Opportunities for team collaboration.": "y",
+                "Situations requiring patience.": "b",
+                "Problems to dissect and understand.": "g"
+            },
+            "userAnswer": null
+        }
+    ], 
+    "result": {
+        "red": null,
+        "yellow": null, 
+        "blue": null, 
+        "green": null
+    }
+}
