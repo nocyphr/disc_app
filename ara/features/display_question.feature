@@ -11,6 +11,10 @@ Feature: display_question
     When I visit the url
     Then the element <element> with text <text> is found
 
-    Examples: 
-    | element | text                            |
-    | h2      | When faced with a challenge, I: |   
+    Examples:   
+    | element | text                                        |
+    | h2      | When faced with a challenge, I:             |   
+    | p       | Immediately take charge and make decisions. | 
+    | p       | Discuss it with others to gather opinions. | 
+    | p       | Consider the long-term implications and proceed cautiously. | 
+    | p       | List out the details and plan systematically. | 
