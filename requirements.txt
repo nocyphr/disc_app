@@ -1,3 +1,5 @@
 streamlit
 ara-tools
 behave
+assertpy
+selenium
