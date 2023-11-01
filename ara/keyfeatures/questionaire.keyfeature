@@ -1,0 +1,16 @@
+Key feature: questionaire  
+
+Contributes to questionaire.capability
+
+In order to get a measurable picture of the personality category of an applicant  
+As a hiring manager
+I want a set of questions presented in sequence to the applicant in a multiple choice format  
+
+Description (optional): 
+    GIVEN an email
+    AND a first name
+    AND a last name
+    AND an age
+    AND a set of questions
+    WHEN a user has answered all questions
+    THEN I receive a set of answers that I can evaluate
