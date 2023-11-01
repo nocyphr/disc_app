@@ -9,8 +9,8 @@ Feature: display_question
   Scenario Outline: I see a multiple choice question
     Given the url 'http://localhost:8501/'
     When I visit the url
-    Then the text <text> is found
+    Then the element <element> with text <text> is found
 
     Examples: 
-    | text                            |
-    | When faced with a challenge, I: |   
+    | element | text                            |
+    | h2      | When faced with a challenge, I: |   
