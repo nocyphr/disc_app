@@ -1,3 +1,11 @@
+- [DISC App](#disc-app)
+  - [Business Goal](#business-goal)
+  - [Basic Capabilities](#basic-capabilities)
+    - [1. Assessment Input:](#1-assessment-input)
+    - [2. DISC Scoring System:](#2-disc-scoring-system)
+    - [3. Visual Representations:](#3-visual-representations)
+
+
 # DISC App
 
 ## Business Goal
@@ -15,3 +23,16 @@ Utilizing this model aids hiring managers in:
 4. Conflict Minimization: Anticipating and addressing potential team conflicts through understanding of personalities.
 
 This tool, therefore, promises better team dynamics, higher productivity, and reduced turnover by making informed hiring decisions.
+
+## Basic Capabilities
+### 1. Assessment Input:
+- **Questionnaire**: Implement a DISC-based questionnaire for candidates.
+- **Bulk Input**: Allow for the processing of multiple candidates simultaneously.
+
+### 2. DISC Scoring System:
+- **Automatic Scoring**: Categorize candidates into D, I, S, or C based on responses.
+- **Breakdown**: Provide a detailed distribution of each category for each individual (e.g., 50% D, 30% I, 10% S, 10% C).
+
+### 3. Visual Representations:
+- **Individual Profiles**: Use pie charts or bar graphs to show an individual's DISC distribution.
+- **Team Composition**: Visualize the mix of personality types within a team for easy analysis.
