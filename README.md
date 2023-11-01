@@ -27,7 +27,6 @@ This tool, therefore, promises better team dynamics, higher productivity, and re
 ## Basic Capabilities
 ### 1. Assessment Input:
 - **Questionnaire**: Implement a DISC-based questionnaire for candidates.
-- **Bulk Input**: Allow for the processing of multiple candidates simultaneously.
 
 ### 2. DISC Scoring System:
 - **Automatic Scoring**: Categorize candidates into D, I, S, or C based on responses.
@@ -35,4 +34,3 @@ This tool, therefore, promises better team dynamics, higher productivity, and re
 
 ### 3. Visual Representations:
 - **Individual Profiles**: Use pie charts or bar graphs to show an individual's DISC distribution.
-- **Team Composition**: Visualize the mix of personality types within a team for easy analysis.
